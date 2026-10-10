@@ -1,0 +1,7 @@
+{
+  "name": "IUREA™ — Premium Activewear",
+  "description": "Performance-driven activewear essentials designed to move with you. Train hard. Look powerful.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
